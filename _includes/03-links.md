@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[I'm Shining Diamond](https://github.com/Shining-Diamond)
