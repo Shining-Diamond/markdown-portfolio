@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__GitHub__ _is amazing._
+_I like this __website__ . It's pretty cool_
